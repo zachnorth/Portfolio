@@ -1,0 +1,11 @@
+
+.project {
+    text-align: left;
+    margin-bottom: 5vh;
+}
+
+.title {
+    font-size: 20px;
+    margin: auto;
+    border-bottom: 1px solid black;
+}

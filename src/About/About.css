@@ -1,0 +1,48 @@
+.aboutMe {
+    margin: auto;
+    width: 48vw;
+}
+
+.titles {
+    margin: auto;
+    border-bottom: 1px solid black;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+.descriptions {
+    font-size: 16px;
+}
+
+.hobbies {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.classes {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.diabetes {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.goals {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.growingUp {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.hurdles {
+    text-align: left;
+    margin-bottom: 40px;
+}

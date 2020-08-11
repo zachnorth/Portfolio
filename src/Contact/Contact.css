@@ -1,0 +1,38 @@
+.contact {
+    margin: auto;
+    width: 48vw;
+}
+
+.title {
+    font-size: 20px;
+    border-bottom: 1px solid black;
+}
+
+.email {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.phoneNumber {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.linkedIn {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.gitHub {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.hours {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.solicitor {
+    font-size: 12px;
+}

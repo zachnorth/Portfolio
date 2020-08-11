@@ -1,0 +1,58 @@
+.divTitle {
+    margin: auto;
+    border-bottom: 1px solid black;
+    width: 48vw;
+    
+}
+
+.resume {
+    margin: auto;
+    width: 48vw;
+}
+
+.summary {
+    margin-bottom: 40px;
+    text-align: left;
+}
+
+.education {
+    margin-bottom: 40px;
+    text-align: left;
+}
+
+.developedApplications {
+    margin-bottom: 40px;
+    text-align: left;
+}
+
+.additionalExperience {
+    margin-bottom: 40px;
+    text-align: left;
+}
+
+.workExperience {
+    margin-bottom: 40px;
+    text-align: left;
+}
+
+.skills {
+    margin-bottom: 40px;
+    text-align: left;
+}
+
+ul {
+    list-style-position: inside;
+    list-style: square;
+    text-align: left;
+}
+
+li {
+    padding: 5px;
+}
+
+.classes {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+
