@@ -43,9 +43,9 @@ const about = (props) => {
                     </p>
                     <h2 className="subTitles">Non Work-Related Goals</h2>
                     <p className="descriptions">
-                        Outside of work/job-related goals, I have a few goals that I am pursuing. I am remodeling the basement room in my house, preparing to install a new
-                        shower, vanity/sink, and tiles in the bathroom. Install hardwood floors in the bedroom and stairway to the basement, and tile the laundry room. I have
-                        set a goal to go on a third backpacking trip for the summer, hopefully to either the Upper Cataract Lake outside of Silverthorne, Colorado or to the 
+                        Currently I have a few non work-related goals that I am pursuing. I am remodeling the basement room in my house, preparing to install a new
+                        shower, vanity/sink, and tiles in the bathroom. Install hardwood floors in the bedroom and stairway to the basement, and tile the laundry room. I am 
+                        planning to go on a third backpacking trip for the summer, hopefully to either the Upper Cataract Lake outside of Silverthorne, Colorado or to the 
                         American Lakes Trail in the northern end of Rocky Mountain National Park. Lastly, I am hoping to reintroduce woodworking into my list of hobbies and 
                         finish setting up my tools and workbench in my garage.
                     </p>

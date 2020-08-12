@@ -11,9 +11,9 @@ const information = (props) => {
                     <tbody className="titleTable">
                         <tr>
                             <td><nav><Link to="/" style={{ textDecoration: 'none' }}>Home</Link></nav></td>
-                            <td><nav><Link to="/About" style={{ textDecoration: 'none' }}>About</Link></nav></td>
-                            <td><nav><Link to="/Projects" style={{ textDecoration: 'none' }}>Projects</Link></nav></td>
                             <td><nav><Link to="/Resume" style={{ textDecoration: 'none' }}>Resumé</Link></nav></td>
+                            <td><nav><Link to="/Projects" style={{ textDecoration: 'none' }}>Projects</Link></nav></td>
+                            <td><nav><Link to="/About" style={{ textDecoration: 'none' }}>About</Link></nav></td>
                             <td><nav><Link to="/Contact" style={{ textDecoration: 'none' }}>Contact</Link></nav></td>
                         </tr>
                     </tbody>
