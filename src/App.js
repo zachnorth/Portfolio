@@ -93,17 +93,17 @@ class App extends Component {
       location1: "Westminster, Colorado",
       additionalExperience: {
         subject1: "Flutter / Firebase",
-        data1_1: "Full-Stack Android/iOS application development with Flutter using Firebase as a backend",
+        data1_1: "Full-Stack Android/iOS application development with Flutter using Firebase as a backend.",
         data1_2: "Transitioning a web application originally written in HTML, JavaScript, PHP, and MySQL into an Android/iOS Flutter application.",
         
         subject2: "Web Application Development",
         data2_1: "Full-Stack web application development using HTML, JavaScript, CSS, PHP, and MySQL.",
-        data2_2: "Full-Stack web application development using HTML, JavaScript, CSS, Node.js, and MongoDB",
-        data2_3: "Front-End web application development using React, HTML, JavaScript, and CSS",
+        data2_2: "Full-Stack web application development using HTML, JavaScript, CSS, Node.js, and MongoDB.",
+        data2_3: "Front-End web application development using React, HTML, JavaScript, and CSS.",
 
         subject3: "Game Development",
-        data3_1: "Developed a custom version of Pong using Unity with C#",
-        data3_2: "Developed a custom version of Asteroids using Unity with C#",
+        data3_1: "Developed a custom version of Pong using Unity with C#.",
+        data3_2: "Developed a custom version of Asteroids using Unity with C#.",
         data3_3: "Developing an Android/iOS application that allows users to host a deck of cards and deals hands to other player's phones.",
       },
       workExperience: {

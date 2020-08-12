@@ -9,17 +9,18 @@ const about = (props) => {
                 <p className="descriptions">
                     I am a graduate of the University of Colorado Boulder with a Bachelor's of Arts degree in Computer Science.
                     I have experience developing web applications and Android/iOS applications amongst other personal projects.
-                    My most recent projects include this website, my portfolio, created using React and Node.js published on ______,
+                    My most recent projects include this website, my portfolio, created using React and Node.js published on Heroku,
                     my Take A Number application with the goal of steamlining the implementation of social distancing practices while 
-                    providing companies with an organized method for maintaining an entrance line into their store, designed with the 
+                    providing companies with an organized method for maintaining an entrance line into their store designed with the 
                     Flutter SDK using Dart and having Firebase as a back-end, and Urine Luck, a web application that allows users to
                     find the closest bathroom to them and filter the bathrooms based on metrics such as cleanliness and whether or not
-                    you are required to pay to use them. I am an avid fly fisher, backpacker, camper, and skiier and spend most of my 
-                    free time participating in those activities. I am a Type-1 diabetic and have been for fourteen years. I am an active
-                    individual who believes preservation of our world with regards to climate change is of the utmost importance. I
-                    beileive that our worlds population can do substantially more to reduce the impact of social inequalities and 
-                    inequities that plague our world and provide assistance and aide to those who are less fortunate than others. 
-                    We are all in this together and acting otherwise is detrimental to the longevity of humanity.
+                    you are required to pay to use them developed using HTML, JavaScript, PHP, and MySQL. I am an avid fly fisher, 
+                    backpacker, camper, and skiier and spend most of my free time participating in those activities. I am a Type-1 
+                    diabetic and have been for fourteen years. I am an active individual who believes preservation of our world with 
+                    regards to climate change is of the utmost importance. I beileive that our worlds population can do substantially 
+                    more to reduce the impact of social inequalities and inequities that plague our world and provide assistance and 
+                    aide to those who are less fortunate than others. We are all in this together and acting otherwise is detrimental 
+                    to the longevity of humanity.
                 </p>
             </div>
             <div className="goals">
@@ -36,10 +37,10 @@ const about = (props) => {
                         A short-term goal of mine is to publish an Android/iOS application to the Google Play Store and the iOS App Store. I have a few projects that 
                         I am currently developing or have developed and need to finish making them ready for deployment such as my<br></br>
                         <a href="https://github.com/zachnorth/takeanumber_v1" rel="noopener noreferrer" target="_blank">Take A Number</a><span>&nbsp;</span>
-                        app or my <a href="https://github.com/zachnorth/BathroomFinder" rel="noopener noreferrer" target="_blank">Urine Luck</a>. 
+                        app or my <a href="https://github.com/zachnorth/BathroomFinder" rel="noopener noreferrer" target="_blank">Urine Luck</a> app. 
                         Outside of publishing my personal projects, I am looking for a position primarily in the full-stack web development field but also hoping to 
                         find any opportunity that requires me to learn new technologies, expand my current skill set, and provides a challenging work environment where
-                        I can collaborate with more senior members of the team in order to develop long-lasting, efficient solutions to complicated scenarios and problems.
+                        I can collaborate with more senior members of a team in order to develop long-lasting, efficient solutions to complicated scenarios and problems.
                     </p>
                     <h2 className="subTitles">Non Work-Related Goals</h2>
                     <p className="descriptions">
@@ -69,7 +70,7 @@ const about = (props) => {
                         that wasn't enough, I started looking for back country terrain. When I moved to Colorado
                         I started skiing Winter Park / Mary Jane and found the Vasquéz Circque. Here I was able to
                         constantly challenge myself in new terrain and refine my form, pushing myself to be the best
-                        I could be. Living in Colorado provided me with access to new terrain anywhere I went, always
+                        I could be. Living in Colorado provided me with access to new terrain everywhere I went, always
                         challenging me in new ways and pushing me to be better.
                     
                     </p>
@@ -82,19 +83,19 @@ const about = (props) => {
                         in California. From that point on backpacking became a regular part of my life. Every summer 
                         I would spend at least a week backpacking through parts of the John Muir Wilderness with my dad
                         and brother. When I was young, it was hard for me to appreciate these trips for what they were. 
-                        At the time they were tough, exhausting, and long making it hard for a ypung child to understand.
+                        At the time they were tough, exhausting, and long making it hard for a young child to understand.
                         By the time I was in eight grade, my dad took us on the longest trip I have done. We spent two 
                         weeks hiking along the John Muir trail covering a range of 120 miles. As I have grown older, I 
                         have been able to appreciate these trips and the life lessons learned in a new light. These trips 
-                        taught me how to appreciate hard work and self reliability. Yes I had my family with me but without 
+                        taught me to appreciate hard work and self reliability. Yes I had my family with me but without 
                         self-motivation to perservere through the toughest days, I would never have made it. Learning at such 
                         a young age to respect the world around me for what it is, a beautiful and fragile ecosystem that 
                         demands respect and rewards with life lessons and memories, was a difficult task, yet it has helped
                         shape me into the person I am today. In more recent years I have participated in trips with my baby
                         sisters hoping to help them learn the same lessons that I did when I was their age. In short, my 
-                        backpacking trips have taught me to respect all those around me, whether it is a human being, a 
-                        pika scavanging for food, or a tiny mountain flower growing out of the side of a mountain at 13,000
-                        feet, for this world to continue, we must respect life.
+                        backpacking trips have taught me the value of hard work, self-motivation, and to respect all those 
+                        around me whether it is a human being, a pika scavanging for food, or a tiny mountain flower growing 
+                        out of the side of a mountain at 13,000 feet. For this world to continue, we must respect life.
                     </p>
                 </div>
 
@@ -113,7 +114,7 @@ const about = (props) => {
                         was how to read a river/water for where fish resided. This was a tedious task. It seemed to me that 
                         I should be able to just cast and catch, but that was certainly not true. Once I undestood how to read 
                         the rivers I had to learn how to actually fish them. Placing your line and fly in the correct place
-                        and keeping it there is tough. Learning how to mimic what a real fly looks like and acts like in while
+                        and keeping it there is tough. Learning how to mimic what a real fly looks like and acts like while
                         floating through moving water took patience, something that was especially hard for me. As the years
                         passed, fly fishing grew from something that was hard to learn and tested my patience to something that 
                         felt natural. understanding that patience and meticulousness are learned traits as well as necessary to 
@@ -152,7 +153,7 @@ const about = (props) => {
                         club and onto a much more competetive team where I stayed until my senior year of highschool. At first, I was just another
                         player continuously getting better as a player and a team member. By the time highschool soccer came around, I was the 
                         captian of my club team and the captain of my highschool team. On both, I saw success and helped lead my teams to the state
-                        finals. Furing college, I joined a co-ed recreational league in Boulder, CO with my brother. In both seasons I played on
+                        finals. During college, I joined a co-ed recreational league in Boulder, CO with my brother. In both seasons I played on
                         this team we made it to the league finals. My time as a soccer player has taught me how to work together on a team and be 
                         part of something bigger than just me. It has showed me my strengths as a leader and what perseverance and hard work can lead to.
                     </p>
@@ -162,15 +163,15 @@ const about = (props) => {
                 <h1 className="titles"><b>Diabetes</b></h1>
                 <p className="descriptions">
                     I was diagnosed with Type-1 diabetes on November 11, 2006, when I was eleven years old. As anyone can imagine, this was a life changing moment for me.
-                    In the moment I did not fully understand what it meant. At the time, one of my closest friends, as well as two of my cousins, was 
+                    In the moment I did not fully understand what it meant. One of my closest friends, as well as two of my cousins, was 
                     a Type-1 diabetic and I saw everything he had to do on a daily basis to take care of it. All three had insulin pumps and close to 
                     constant monitoring of every aspect related to their diabetes. To me, I did not know how to comprehend all of this. Prior to my 
                     diagnosis, it just seemed like an extra thing they had to do when they wanted to eat but I quickly learned that it is much more than
-                    that. Yes, constant monitoring is a part of it, but it is much more than just that. I had to learn how my body acted in every situation,
+                    that. Yes, constant monitoring is a part of it, but I had to learn how my body acted in every situation,
                     I had to learn how my body reacted to different stimuli such as eating, activity, sleeping, sitting around doing nothing, and any other
                     situation that you can imagine. I had to become completely in tune with how I felt at every moment of the day and be entirely aware
                     how my body was reacting to every situation. As an eleven year old, I was lucky and unlucky in different ways. Type-1 diabetics are
-                    typically diagnosed within the first year of their life and as a result, it is all they know. Not that that makes them lucky, but it 
+                    often diagnosed within the first year of their life and as a result, it is all they know. Not that that makes them lucky, but it 
                     does allow them to grow up understanding all of this whereas for me, my entire world that I had known was changing. After spending five
                     days in the hospital meeting with my first endochrinologist and many other doctors, barely being able to sleep as a result of the constant
                     stream of doctors coming in to either test my blood sugar or draw vials of blood from me, I was sent home. At first it was terrifying. 
@@ -201,11 +202,11 @@ const about = (props) => {
                     to live my life the way I want to. There is no doubt at times I wish I was not a diabetic. Contrary to what most people beilieve though, 
                     it is not when I am testing my blood sugar for the fifteenth time in a day, when I am injecting myself with insulin and getting odd looks
                     from everyone around who think I am doing heroin or steroids, or when I have to hold everyone around me up for a minute while I get my 
-                    blood sugar under control. It is when I am force feeding myself skittles and chocolate bars to get my blood sugar back up to a safe level,
-                    when I let myself fall into the mentality of I cannot do whatever is at hand because I am diabetic, or when I have to go see a doctor 
-                    and tell them I am a diabetic leading them to assume that whatever I am seeing them for is a result of me being diabetic. It is in the
-                    moments when I tell myself or other people tell me "no you can't, you're a diabetic". I have proven to myself time and time again that 
-                    no matter what it is, having Type-1 diabetes will never hold me back.
+                    blood sugar under control. It is when I have to force feed myself skittles and chocolate bars to get my blood sugar back up to a safe level 
+                    despite being full and tired of sugar, when I let myself fall into the mentality of I cannot do whatever is at hand because I am diabetic, 
+                    or when I have to go see a doctor and tell them I am a diabetic leading them to assume that whatever I am seeing them for is a result of me
+                    being diabetic. It is in the moments when I tell myself or other people tell me "no you can't, you're a diabetic". I have proven to myself 
+                    time and time again that no matter what it is, having Type-1 diabetes will never hold me back.
                 </p>
             </div>
             <div className="hurdles">
@@ -222,10 +223,10 @@ const about = (props) => {
                         Science, and Numerical Computation at the time. Having missed as much time as I did, my teachers and advisors, though they had been very 
                         kind, lenient, and supportive, all advised me to withdraw from the semester and retake the classes the following spring semester. I decided
                         not to give up and push through. With the help and understanding of my teachers and through many hours of hard work, I managed to pass all 
-                        my classes with grades that I was proud of having missed a smuch school as I did and while still suffering through my headaches. At the end
-                        of the semester, two of my teachers made a point to pull me aside and congratulate me on being able to actually pass my classes, let alone
-                        get the grades that I did. This was without a doubt the hardest semester of school I experienced and I am proud of the effort and work 
-                        that I put into it as well as my dedication to not giving up despite the amount of pain I experienced.
+                        my classes with grades that I was proud of having missed as much school as I did and while still suffering through my headaches. At the end
+                        of the semester, two of my teachers made a point to pull me aside and congratulate me on being able to actually pass my classes let alone
+                        getting the grades that I did. This was without a doubt the hardest semester of school I have experienced and I am proud of the effort and work 
+                        that I put into it as well as my dedication to not giving up despite the setbacks and amount of pain I experienced.
                     </p>
                 </div>
                 <div className="kneeSurgery">
@@ -233,7 +234,7 @@ const about = (props) => {
                     <p className="descriptions">
                         In January of 2016, I was skiing and fell in such a way that required me to have knee surgery. The operation was to remove inflamed Plica 
                         from my right knee, which for me had a three to six month recovery period. At the time, I was taking a few classes, most notably was my 
-                        physics class, at Front Range Community College as well as working at the Whole Foods Market Seafood Counter. I had an A in al my classes 
+                        physics class, at Front Range Community College as well as working at the Whole Foods Market Seafood Counter. I had an A in all of my classes 
                         and overall was doing very well in school and was enjoying my job at Whole Foods. When I had knee surgery, I was forced to quit my job
                         becuase I had only been working there for just under six months as well as having to miss three weeks of school for the recovery. In doing
                         so, I quickly fell behind in my classes and all of my grades dropped. My physics professor advised me to drop the class and re-enroll 
