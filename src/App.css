@@ -12,7 +12,7 @@ html::-webkit-scrollbar {
 
 .allProjects {
   margin: auto;
-  width: 48vw;
+  width: 60vw;
   display: grid;
   grid-template-columns: 1fr;
 }
