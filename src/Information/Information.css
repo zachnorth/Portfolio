@@ -1,32 +1,16 @@
 .titleInformation {
     margin: 12px;
-    border: 1px solid #EFEDE7;
-    box-shadow: 0 2px 2px #EFEDE7;
     background-color: #EFEDE7;
     color: black;
     display: inline-block;
   }
-
   .myName {
       font-size: 48px;
   }
-  
-  .titleRef {
-    color: blue;
-  }
-  .titleData {
-      margin-left: 25vw;
-      float: left;
-      width: 40vw;
-  }
-
   .titleTable {
-      border: 0;
-      align-self: center;
-      float: right;
-      width: 25vw;
+      margin: auto;
+      width: 48vw;
   }
-
   td {
       padding: 18px;
       padding-top: 16px;
