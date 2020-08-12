@@ -24,6 +24,32 @@ const about = (props) => {
             </div>
             <div className="goals">
                 <h1 className="titles"><b>Goals</b></h1>
+                <div className="longTerm">
+                    <h2 className="subTitles">Long-Term Goals</h2>
+                    <p className="descriptions">
+                        A long-term goal of mine is to become a self-employed software developer. As of now, I am interested in full-stack web development, full-stack
+                        Android/iOS application development, and scientific systems software development. I plan to work in the industry for the next fifteen to twenty 
+                        years and become a Senior Software Developer at a company in one of the three fields mentioned above.
+                    </p>
+                    <h2 className="subTitles">Short-Term Goals</h2>
+                    <p className="descriptions">
+                        A short-term goal of mine is to publish an Android/iOS application to the Google Play Store and the iOS App Store. I have a few projects that 
+                        I am currently developing or have developed and need to finish making them ready for deployment such as my<br></br>
+                        <a href="https://github.com/zachnorth/takeanumber_v1" rel="noopener noreferrer" target="_blank">Take A Number</a><span>&nbsp;</span>
+                        app or my <a href="https://github.com/zachnorth/BathroomFinder" rel="noopener noreferrer" target="_blank">Urine Luck</a>. 
+                        Outside of publishing my personal projects, I am looking for a position primarily in the full-stack web development field but also hoping to 
+                        find any opportunity that requires me to learn new technologies, expand my current skill set, and provides a challenging work environment where
+                        I can collaborate with more senior members of the team in order to develop long-lasting, efficient solutions to complicated scenarios and problems.
+                    </p>
+                    <h2 className="subTitles">Non Work-Related Goals</h2>
+                    <p className="descriptions">
+                        Outside of work/job-related goals, I have a few goals that I am pursuing. I am remodeling the basement room in my house, preparing to install a new
+                        shower, vanity/sink, and tiles in the bathroom. Install hardwood floors in the bedroom and stairway to the basement, and tile the laundry room. I have
+                        set a goal to go on a third backpacking trip for the summer, hopefully to either the Upper Cataract Lake outside of Silverthorne, Colorado or to the 
+                        American Lakes Trail in the northern end of Rocky Mountain National Park. Lastly, I am hoping to reintroduce woodworking into my list of hobbies and 
+                        finish setting up my tools and workbench in my garage.
+                    </p>
+                </div>
             </div>
             <div className="hobbies">
                 <h1 className="titles"><b>Hobbies</b></h1>

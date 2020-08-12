@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css';
-import ProfilePic from './LlamaProfilePic.jpg';
+import ProfilePic from './ProfilePic.jpg';
 import GitHub from './GitHub-Mark-32px.png';
 import LinkedIn from './LinkedInLogo.png';
 
